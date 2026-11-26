@@ -5,7 +5,7 @@ I build backend systems in **Java and Spring Boot**, and I like making games fro
 
 - 💼 Former **Explore Intern, Java Software Development** at **_VOIS (Vodafone Intelligent Solutions)**, Aug 2026
 - 🔐 Interested in backend security, APIs, and how systems work under the hood
-- 🌍 iGV team member at **AIESEC in GUC**
+- 🌍 **Team Leader, iGV** at **AIESEC in GUC**, managing the On The Map & Aquatica volunteer projects
 - 📫 Reach me at **y.elmoniry06@gmail.com**
 
 ---
